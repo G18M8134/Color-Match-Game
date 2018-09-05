@@ -11,7 +11,7 @@ Group mentor: Carlton Mpofu
 
 Project title: Color Matching Game
 
-Project page: 
+Project page: G18M8134/Color-Match-Game
 
 Instructions for use (allowable actions): 
 When starting the game.Two images are displayed on the GUI , one image representing text  and the other representing image text color. The user is intended to match the meaning of the text with the color of the text in the other image. The Buttons used are the Left and Right arrows, which have the function of yes and no respectively.If the user response to the event and the output is True the user wins the round and gets points if else no points for that round . 
