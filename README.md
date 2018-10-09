@@ -5,7 +5,8 @@ Group name: Code Runners
 
 Group members: Mnisi Mpho g18m8134
                Tshavhungwe Vhuthu g17t9208
-               Butshingi	Lukhona g17b3636 
+               //Butshingi	Lukhona g17b3636
+               Mihlali  Manhcoko g17m4271
 
 Group mentor: Carlton Mpofu
 
